@@ -1,0 +1,15 @@
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\centro_medico\centro_medico\bin\Debug\centro_medico.exe.config
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\centro_medico\centro_medico\obj\Debug\centro_medico.csprojResolveAssemblyReference.cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\centro_medico\centro_medico\obj\Debug\centro_medico.Form1.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\centro_medico\centro_medico\obj\Debug\centro_medico.mantenimiento_especialidades.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\centro_medico\centro_medico\obj\Debug\centro_medico.mantenimiento_medicos.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\centro_medico\centro_medico\obj\Debug\centro_medico.mantenimiento_serviciosm.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\centro_medico\centro_medico\obj\Debug\centro_medico.mantenimiento_usuarios.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\centro_medico\centro_medico\obj\Debug\centro_medico.Properties.Resources.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\centro_medico\centro_medico\obj\Debug\centro_medico.csproj.GenerateResource.Cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\centro_medico\centro_medico\bin\Debug\centro_medico.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\centro_medico\centro_medico\bin\Debug\centro_medico.pdb
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\centro_medico\centro_medico\obj\Debug\centro_medico.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\centro_medico\centro_medico\obj\Debug\centro_medico.pdb
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\centro_medico\centro_medico\obj\Debug\centro_medico.citas.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\centro_medico\centro_medico\obj\Debug\centro_medico.historiales.resources

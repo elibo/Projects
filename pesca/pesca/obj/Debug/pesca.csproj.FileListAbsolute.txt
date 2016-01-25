@@ -1,0 +1,9 @@
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\pesca\pesca\bin\Debug\pesca.exe.config
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\pesca\pesca\bin\Debug\pesca.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\pesca\pesca\bin\Debug\pesca.pdb
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\pesca\pesca\obj\Debug\pesca.csprojResolveAssemblyReference.cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\pesca\pesca\obj\Debug\pesca.Form1.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\pesca\pesca\obj\Debug\pesca.Properties.Resources.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\pesca\pesca\obj\Debug\pesca.csproj.GenerateResource.Cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\pesca\pesca\obj\Debug\pesca.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\pesca\pesca\obj\Debug\pesca.pdb

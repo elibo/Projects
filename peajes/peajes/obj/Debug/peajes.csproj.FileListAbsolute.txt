@@ -1,0 +1,9 @@
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\peajes\peajes\bin\Debug\peajes.exe.config
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\peajes\peajes\bin\Debug\peajes.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\peajes\peajes\bin\Debug\peajes.pdb
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\peajes\peajes\obj\Debug\peajes.csprojResolveAssemblyReference.cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\peajes\peajes\obj\Debug\peajes.Form1.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\peajes\peajes\obj\Debug\peajes.Properties.Resources.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\peajes\peajes\obj\Debug\peajes.csproj.GenerateResource.Cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\peajes\peajes\obj\Debug\peajes.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\peajes\peajes\obj\Debug\peajes.pdb

@@ -1,0 +1,5 @@
+C:\Users\elibo\Desktop\DAM\numamigos\numamigos\bin\Debug\numamigos.exe.config
+C:\Users\elibo\Desktop\DAM\numamigos\numamigos\bin\Debug\numamigos.exe
+C:\Users\elibo\Desktop\DAM\numamigos\numamigos\bin\Debug\numamigos.pdb
+C:\Users\elibo\Desktop\DAM\numamigos\numamigos\obj\Debug\numamigos.exe
+C:\Users\elibo\Desktop\DAM\numamigos\numamigos\obj\Debug\numamigos.pdb

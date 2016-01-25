@@ -1,0 +1,9 @@
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\ejemplo1.2\ejemplo1.2\bin\Debug\ejemplo1.2.exe.config
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\ejemplo1.2\ejemplo1.2\bin\Debug\ejemplo1.2.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\ejemplo1.2\ejemplo1.2\bin\Debug\ejemplo1.2.pdb
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\ejemplo1.2\ejemplo1.2\obj\Debug\ejemplo1.2.csprojResolveAssemblyReference.cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\ejemplo1.2\ejemplo1.2\obj\Debug\ejemplo1._2.Form1.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\ejemplo1.2\ejemplo1.2\obj\Debug\ejemplo1._2.Properties.Resources.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\ejemplo1.2\ejemplo1.2\obj\Debug\ejemplo1.2.csproj.GenerateResource.Cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\ejemplo1.2\ejemplo1.2\obj\Debug\ejemplo1.2.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\ejemplo1.2\ejemplo1.2\obj\Debug\ejemplo1.2.pdb

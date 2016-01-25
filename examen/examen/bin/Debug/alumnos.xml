@@ -1,0 +1,12 @@
+<Alumnos>
+  <Alumno Nombre="Elena">
+    <Modulo>Mates</Modulo>
+    <Horas>55</Horas>
+    <Porcentaje>4.5</Porcentaje>
+  </Alumno>
+  <Alumno Nombre="Yo">
+    <Modulo>Fisica</Modulo>
+    <Horas>5</Horas>
+    <Porcentaje>0.5</Porcentaje>
+  </Alumno>
+</Alumnos>

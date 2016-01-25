@@ -1,0 +1,9 @@
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\NumAleatorio\bin\Debug\NumAleatorio.exe.config
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\NumAleatorio\bin\Debug\NumAleatorio.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\NumAleatorio\bin\Debug\NumAleatorio.pdb
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\NumAleatorio\obj\Debug\NumAleatorio.csprojResolveAssemblyReference.cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\NumAleatorio\obj\Debug\NumAleatorio.Form1.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\NumAleatorio\obj\Debug\NumAleatorio.Properties.Resources.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\NumAleatorio\obj\Debug\NumAleatorio.csproj.GenerateResource.Cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\NumAleatorio\obj\Debug\NumAleatorio.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\NumAleatorio\obj\Debug\NumAleatorio.pdb

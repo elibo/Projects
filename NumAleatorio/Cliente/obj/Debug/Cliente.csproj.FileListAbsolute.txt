@@ -1,0 +1,9 @@
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\Cliente\bin\Debug\Cliente.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\Cliente\bin\Debug\Cliente.pdb
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\Cliente\obj\Debug\Cliente.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\Cliente\obj\Debug\Cliente.pdb
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\NumAleatorio\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache

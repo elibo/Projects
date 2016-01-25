@@ -1,0 +1,6 @@
+C:\Users\elibo\Desktop\DAM\numperfecto\numperfecto\bin\Debug\numperfecto.exe.config
+C:\Users\elibo\Desktop\DAM\numperfecto\numperfecto\bin\Debug\numperfecto.exe
+C:\Users\elibo\Desktop\DAM\numperfecto\numperfecto\bin\Debug\numperfecto.pdb
+C:\Users\elibo\Desktop\DAM\numperfecto\numperfecto\obj\Debug\numperfecto.csprojResolveAssemblyReference.cache
+C:\Users\elibo\Desktop\DAM\numperfecto\numperfecto\obj\Debug\numperfecto.exe
+C:\Users\elibo\Desktop\DAM\numperfecto\numperfecto\obj\Debug\numperfecto.pdb

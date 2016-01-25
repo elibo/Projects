@@ -1,0 +1,9 @@
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\frases\frases\bin\Debug\frases.exe.config
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\frases\frases\bin\Debug\frases.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\frases\frases\bin\Debug\frases.pdb
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\frases\frases\obj\Debug\frases.csprojResolveAssemblyReference.cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\frases\frases\obj\Debug\frases.Form1.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\frases\frases\obj\Debug\frases.Properties.Resources.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\frases\frases\obj\Debug\frases.csproj.GenerateResource.Cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\frases\frases\obj\Debug\frases.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\frases\frases\obj\Debug\frases.pdb

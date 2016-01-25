@@ -1,0 +1,9 @@
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\faltas\faltas\bin\Debug\faltas.exe.config
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\faltas\faltas\bin\Debug\faltas.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\faltas\faltas\bin\Debug\faltas.pdb
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\faltas\faltas\obj\Debug\faltas.csprojResolveAssemblyReference.cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\faltas\faltas\obj\Debug\faltas.Form1.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\faltas\faltas\obj\Debug\faltas.Properties.Resources.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\faltas\faltas\obj\Debug\faltas.csproj.GenerateResource.Cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\faltas\faltas\obj\Debug\faltas.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\faltas\faltas\obj\Debug\faltas.pdb

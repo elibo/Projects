@@ -1,0 +1,6 @@
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\loteria\loteria\bin\Debug\loteria.exe.config
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\loteria\loteria\bin\Debug\loteria.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\loteria\loteria\bin\Debug\loteria.pdb
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\loteria\loteria\obj\Debug\loteria.csprojResolveAssemblyReference.cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\loteria\loteria\obj\Debug\loteria.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\loteria\loteria\obj\Debug\loteria.pdb
